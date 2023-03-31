@@ -1,0 +1,10 @@
+strictmode is a tool for highlighting potential problems in application
+It adds addtional checks and warnings for its descendants
+
+
+Strict mode only runs in developement, so not going to
+impact production build 
+
+
+adding src to image is different in react first you 
+import it then use that name in the src
